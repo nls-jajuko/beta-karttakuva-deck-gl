@@ -4,12 +4,10 @@ https://github.com/visgl/deck.gl/blob/8.9-release/examples/website/terrain-exten
 
 ### Usage
 
-Copy the content of this folder to your project. 
-
 To load the terrain tiles, you need a [NLS Finland API key](https://www.maanmittauslaitos.fi/rajapinnat/api-avaimen-ohje). You can either set an environment variable:	
 
 
-Set `API_TOKEN` directly in `app.jsx`.
+Set `API_TOKEN` and URLs directly in `app.jsx`.
 
 ```bash
 # install dependencies
